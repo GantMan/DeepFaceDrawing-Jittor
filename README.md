@@ -46,6 +46,9 @@ Drawing sketch using DeepFaceDrawing GUI. Please download the pre-trained model<
   python3.7 demo.py
   ```
 
+## Project Features:
+[<img src="https://s3.amazonaws.com/ir_public/media/ai-fyi_badge_2x.png" alt="AI-FYI.com Pick" height="75">](https://www.youtube.com/watch?v=KC0gr6lcY2k)
+
 ## Citation
 
 If you found this code useful please cite our work as:
